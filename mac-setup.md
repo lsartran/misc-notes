@@ -9,7 +9,9 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 - Key Repeat: Fast
 - Delay Until Repeat: Short
 
-### ...
+### User & Groups
+
+- Shell: zsh
 
 # Software to install
 
@@ -23,3 +25,21 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 - OmniFocus
 - TrueCrypt 7.1a
 - brew
+    - zsh
+
+# Colour scheme
+
+- Solarized (for Terminal)
+    - Solarized Dark for Yosemite from https://github.com/jcberthon/solarized.git
+
+# Config
+
+- Install dotfiles
+
+## Sublime Text
+
+TBC
+
+## vim
+
+TBC
