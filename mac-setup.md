@@ -25,6 +25,9 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 - OmniFocus
 - TrueCrypt 7.1a
 - brew
+    - git-annex
+    - python3
+    - stack
     - zsh
 
 # Colour scheme
@@ -38,7 +41,7 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 
 ## Sublime Text
 
-TBC
+- `Preferences.sublime-settings` from `dotfiles` into `"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"`
 
 ## vim
 
