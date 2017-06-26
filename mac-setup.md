@@ -9,9 +9,26 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 - Key Repeat: Fast
 - Delay Until Repeat: Short
 
+### Trackpad
+
+#### Point & Click
+
+[X] Silent clicking
+[X] Force Click and haptic feedback
+
+#### Scroll & Zoom
+
+[ ] Scroll direction: Natural
+
 ### User & Groups
 
 - Shell: zsh
+
+### Accessibility
+
+#### Zoom
+
+[X] Use scroll gesture with modifier key to zoom: ^ Control
 
 # Software to install
 
@@ -24,6 +41,7 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 - Karabiner-Elements
 - OmniFocus
 - TrueCrypt 7.1a
+- Focus
 - brew
     - git-annex
     - python3
