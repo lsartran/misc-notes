@@ -13,12 +13,12 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 
 #### Point & Click
 
-[X] Silent clicking
-[X] Force Click and haptic feedback
+- [X] Silent clicking
+- [X] Force Click and haptic feedback
 
 #### Scroll & Zoom
 
-[ ] Scroll direction: Natural
+- [ ] Scroll direction: Natural
 
 ### User & Groups
 
@@ -28,7 +28,7 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 
 #### Zoom
 
-[X] Use scroll gesture with modifier key to zoom: ^ Control
+- [X] Use scroll gesture with modifier key to zoom: ^ Control
 
 # Software to install
 
