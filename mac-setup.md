@@ -47,11 +47,13 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
     - python3
     - stack
     - zsh
+    - neovim
 
 # Colour scheme
 
 - Solarized (for Terminal)
     - Solarized Dark for Yosemite from https://github.com/jcberthon/solarized.git
+    - Then, in Terminal > Preferences > Profiles > Solarized Dark for Yosemite > Cursor > Block (I cannot see Underline very well in vim)
 
 # Config
 
@@ -61,6 +63,6 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 
 - `Preferences.sublime-settings` from `dotfiles` into `"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"`
 
-## vim
+## Neovim
 
 TBC
