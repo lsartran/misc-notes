@@ -8,7 +8,13 @@
 ## Start an instance
 
 ```
-$ aws ec2 run-instances --image-id ami-c5afaaa3 --security-group-ids sg-11436668 --count 1 --instance-type p2.xlarge --key-name lskey3 --subnet-id subnet-7a85421d 
+$ aws ec2 run-instances \
+    --key-name lskey3 \
+    --image-id ami-c5afaaa3 \
+    --security-group-ids sg-11436668 \
+    --count 1 \
+    --instance-type p2.xlarge \
+    --subnet-id subnet-7a85421d 
 ```
 
 ## List running instances ids
