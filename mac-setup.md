@@ -30,18 +30,34 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 
 - [X] Use scroll gesture with modifier key to zoom: ^ Control
 
+### From the CLI
+
+```
+# Enable key-repeat
+defaults write -g ApplePressAndHoldEnabled -bool false
+```
+
 # Software to install
 
-- Sublime Text 3
 - Chrome
 - Dash
 - Dashlane
-- Spectacle
-- f.lux
+- Electrum
+- Focus
+- iTerm2
 - Karabiner-Elements
 - OmniFocus
+- Slack
+- Spectacle
+- Spotify
+- Sublime Text 3
+- Transmission
 - TrueCrypt 7.1a
-- Focus
+- Tunnelblick
+- VLC
+- WhatsApp
+- f.lux
+- nvALT
 - brew
     - git-annex
     - python3
@@ -66,3 +82,7 @@ More than having my laptop setup just the way I like, I want to /know/ what I ch
 ## Neovim
 
 TBC
+
+## iTerm2
+
+Preferences > Profiles > Default > Text > Font > 16pt Monaco
